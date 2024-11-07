@@ -1,7 +1,7 @@
 # About Me
 I'm a data driven business professional, currently pursuing Ontario Graduate Certificate in Data Analysis for Business Decision Marking program at Durham College, Oshawa, Ontario. I am also working on Kaggle competitions to boost my learning on data analysis and machine learning.
 
-⚡ Fun fact: I love football, ice hockey, motosports, nature walks, different cuisines, gym(especially endurance workouts) and data science!
+⚡ Fun fact: I love football, ice hockey, motosports, nature walks, different cuisines, endurance workouts and data science!
 
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
