@@ -1,5 +1,5 @@
 # About Me
-I'm a data driven business professional, currently pursuing Ontario Graduate Certificate in Data Analysis for Business Decision Marking program (Sept 2024 - April 2025) and also enrolled for Artificial Intelligence Analysis, Design and Implementation (graduate certificate) (Sept 2025 - April 2026) at Durham College, Oshawa, Ontario. I am also working on Kaggle competitions to boost my learning on data analysis and machine learning.
+I'm a data driven business professional, currently pursuing Ontario Graduate Certificate in **Data Analysis for Business Decision Marking program (Sept 2024 - April 2025)** and also enrolled for **Artificial Intelligence Analysis, Design and Implementation (graduate certificate) (Sept 2025 - April 2026)**  at *Durham College*, Oshawa, Ontario. I am also working on Kaggle competitions to boost my learning on data analysis and machine learning.
 
 ⚡ Fun fact: I love football, ice hockey, motosports, nature walks, different cuisines, endurance workouts and data science!
 
