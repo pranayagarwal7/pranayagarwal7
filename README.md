@@ -23,4 +23,4 @@ I'm a data driven business professional, currently pursuing Ontario Graduate Cer
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pranayagarwal7/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aglpranay@gmail.com)
 
-Feel free to reach out if you'd like to connect or collaborate on projects related to software engineering or machine learning!
+Feel free to reach out if you'd like to connect or collaborate on projects related to data analysis / machine learning.
