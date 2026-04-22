@@ -2,6 +2,7 @@
 
 Data Analyst based in **Toronto, Ontario, Canada** with 2+ years of professional experience in data migration, SQL-based ETL pipelines, and dashboard reporting. Currently completing AI & Data Analytics programs at Durham College, building ML models for real-world applications.
 
+📧 aglpranay@gmail.com &nbsp;|&nbsp; 📱 (647) 614-9882 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/pranayagarwal7/) &nbsp;|&nbsp; [Portfolio](https://pranayagarwal7.github.io) &nbsp;|&nbsp; [Resume](https://pranayagarwal7.github.io/assets/Pranay_Agarwal_Resume.pdf)
 ---
 
 ## 🛠️ Skills
