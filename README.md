@@ -1,4 +1,4 @@
-# Hi, I'm Pranay Agarwal 👋
+# Hi, I'm Pranay Agarwal
 
 Data Analyst based in **Toronto, Ontario, Canada** with 2+ years of professional experience in data migration, SQL-based ETL pipelines, and dashboard reporting. Currently completing AI & Data Analytics programs at Durham College, building ML models for real-world applications.
 
