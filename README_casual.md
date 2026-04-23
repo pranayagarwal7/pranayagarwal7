@@ -10,7 +10,7 @@ Before Canada, I spent two years at a data consultancy in India migrating enterp
 
 ## What I work with
 
-Python · SQL · R · Tableau · scikit-learn · AWS · Salesforce · Docker · Spark
+Python · SQL · R · Tableau  · scikit-learn · AWS · Salesforce · Docker · Spark
 
 ---
 
