@@ -1,10 +1,10 @@
-# Hey, I'm Pranay 👋
+# Hey, I'm Pranay
 
 I'm a Data Analyst based in Toronto. Recently graduated from Durham College's AI & Data Analytics programs and currently looking for full-time opportunities. In the meantime, I'm working on personal projects to keep learning and building. I like turning messy data into something actually useful — whether that's a model, a dashboard, or just a clean SQL query someone else can maintain.
 
 Before Canada, I spent two years at a data consultancy in India migrating enterprise data into Salesforce and building ETL pipelines. Learned a lot about what happens when data quality goes wrong (and how to stop it from happening again).
 
-📬 [aglpranay@gmail.com](mailto:aglpranay@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/pranayagarwal7/) &nbsp;|&nbsp; [Portfolio](https://pranayagarwal7.github.io) &nbsp;|&nbsp; [Resume](https://pranayagarwal7.github.io/assets/Pranay_Agarwal_Resume.pdf)
+[aglpranay@gmail.com](mailto:aglpranay@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/pranayagarwal7/) &nbsp;|&nbsp; [Portfolio](https://pranayagarwal7.github.io) &nbsp;|&nbsp; [Resume](https://pranayagarwal7.github.io/assets/Pranay_Agarwal_Resume.pdf)
 
 ---
 
